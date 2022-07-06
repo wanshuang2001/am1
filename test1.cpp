@@ -5,5 +5,5 @@ void main()
 	
 	int i;
 	
-	test();
+	test1();
 }
